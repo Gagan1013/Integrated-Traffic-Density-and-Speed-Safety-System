@@ -1,5 +1,25 @@
 # Integrated-Traffic-Density-and-Speed-Safety-System
 The Integrated Traffic Density and Speed Safety System is an intelligent traffic monitoring and management solution developed to enhance road safety and improve traffic flow. The project focuses on integrating traffic density analysis and vehicle speed detection into a unified system for efficient traffic surveillance.
+✨ Key Features
+1. Traffic Density Monitoring: Detects and counts vehicles on different roads.
+2. Smart Traffic Signal Control: Gives priority to roads with higher traffic density.
+3. Speed Monitoring: Detects vehicles exceeding the speed limit.
+4. Emergency Vehicle Priority: Prioritizes ambulances and other emergency vehicles.
+5. Traffic Congestion Detection: Identifies heavily crowded roads.
+6. Integrated Safety: Combines traffic management and vehicle speed monitoring.
+🌟 Advantages
+- Reduces traffic congestion.
+- Saves travel time.
+- Improves road safety.
+- Reduces unnecessary waiting.
+- Supports emergency services.
+- Promotes smart transportation.
+🔮 Future Scope
+- AI-based vehicle detection.
+- Automatic Number Plate Recognition.
+- Real-time camera monitoring.
+- Cloud-based traffic management.
+- Mobile traffic alert application.
 <img width="1898" height="965" alt="Screenshot 2026-11-03 160201" src="https://github.com/user-attachments/assets/c63faf07-db3d-4a5c-ba69-b5f456baa5a6" />
 <img width="1900" height="965" alt="Screenshot 2026-11-03 160126" src="https://github.com/user-attachments/assets/37838532-e1a3-4180-b50b-29aee73f6d50" />
 <img width="1911" height="958" alt="Screenshot 2026-11-03 160216" src="https://github.com/user-attachments/assets/65e95dc7-ef3c-47b1-a8df-e4d02a9761c7" />
